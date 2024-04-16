@@ -1,11 +1,18 @@
-# Welcome to your Jupyter Book
+# Neuroanalytics Dataset "Help Desk"
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This is a small `jupyter-book` developed to introduce and document the
+available open resources and datasets that might be useful as part of
+participation in the Canadian Neuroanalytics Scholars Program.
 
-Check out the content pages bundled with this sample book to see more.
+This is a growing resource and can be shared and added to by
+anyone. The goal is to provide a useful starting point to research
+projects that can capitalize on existing open data resources.
+
+The structure of this documentation is still in its early stages - if
+there is systematic structure or information you want to see, please
+make a PR.
+
+Check out the initial content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
