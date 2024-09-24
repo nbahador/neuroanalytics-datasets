@@ -1,4 +1,4 @@
-# Neuroanalytics Dataset "Help Desk"
+# Neuroanalytics Dataset Data Resource "Help Desk"
 
 This is a small `jupyter-book` developed to introduce and document the
 available open resources and datasets that might be useful as part of

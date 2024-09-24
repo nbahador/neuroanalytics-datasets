@@ -49,7 +49,7 @@ In the era of data sharing, it is imperative that participant data remain anonym
 
 Brain-CODE adheres not only to high levels of data privacy, but also data security at the platform level. Federation and linking with other databases involves the implementation of a high-security data transfer infrastructure. This includes enhanced validation certificates at the CAC (Centre for Advanced Computing) facility which meets 21 CFR part 11 standards. Working with a team of experts, the Ontario Brain Institute has developed clear and comprehensive guidelines on data privacy and governance. These governance documents outline how the data are collected, stored, and accessed by Brain-CODE users.
 
-## Data Sets
+## Datasets
 
 - Cerebral Palsy Neuroscience Discovery Network (CP-NET)
 - RECOVER: REaching patients with a COncussion Visiting the Emergency
@@ -72,11 +72,13 @@ Brain-CODE adheres not only to high levels of data privacy, but also data securi
 
 ## Data Types
 
+- Demographic
 - Clinical
-- Imaging (MRI, EEG, MEG, DTI, Ocular)
+- Imaging (MRI, fMRI, dMRI)
+- Electrophysiological (EEG, MEG)
+- Ocular
 - Genomic
 - Proteomic
-- Demographic
 
 ## Register
 

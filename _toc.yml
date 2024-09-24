@@ -4,7 +4,15 @@
 format: jb-book
 root: intro
 chapters:
+- file: intro
+- file: conp-data-portal
 - file: brain-code
+- file: brainlife
+- file: dandi
+- file: abcd
+- file: adni
+- file: nightingale
+- file: open-neuro
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
