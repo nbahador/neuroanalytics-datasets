@@ -2,17 +2,22 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: intro
-- file: conp-data-portal
-- file: brain-code
-- file: brainlife
-- file: dandi
-- file: abcd
-- file: adni
-- file: nightingale
-- file: open-neuro
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+root: intro.md
+parts:
+  - caption: Data Portals
+    chapters:
+    - file: brain-code.md
+    - file: brainlife.md
+    - file: conp-data-portal.md
+    - file: dandi.md
+    - file: nightingale.md
+    - file: open-neuro.md
+  - caption: Datasets
+    chapters:
+    - file: abcd.md
+    - file: adni.md
+  - caption: Contributing Formatting and Files
+    chapters:
+    - file: markdown.md
+    - file: notebooks.ipynb
+    - file: markdown-notebooks.md
