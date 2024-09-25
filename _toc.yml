@@ -16,6 +16,17 @@ parts:
     chapters:
     - file: abcd.md
     - file: adni.md
+  - caption: Research Topics
+    chapters:
+    - file: dementia.md
+    - file: parkinsons.md
+    - file: alzheimers.md
+    - file: seizures.md
+    - file: depression.md
+    - file: aging.md
+  - caption: Research Methods
+    chapters:
+    - file: deep-learning.md
   - caption: Contributing Formatting and Files
     chapters:
     - file: markdown.md
