@@ -6,16 +6,17 @@ root: intro.md
 parts:
   - caption: Data Portals
     chapters:
+    - file: open-neuro.md
     - file: brain-code.md
-    - file: brainlife.md
     - file: conp-data-portal.md
+    - file: brainlife.md
     - file: dandi.md
     - file: nightingale.md
-    - file: open-neuro.md
   - caption: Datasets
     chapters:
     - file: abcd.md
     - file: adni.md
+    - file: prevent-ad.md
   - caption: Research Topics
     chapters:
     - file: dementia.md
