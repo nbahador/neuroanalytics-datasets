@@ -4,6 +4,18 @@
 format: jb-book
 root: intro.md
 parts:
+  - caption: Meet the Scholars
+    chapters:
+    - file: hao-ting_wang.md
+    - file: josh_neudorf.md
+    - file: mohamed_abdelhack.md
+    - file: vibujithan_vigneshwaran.md
+    - file: arsham_ghavasieh.md
+    - file: diellor_basha.md
+    - file: julia_katharina.md
+    - file: lindsay_munroe.md
+    - file: davor_curic.md
+    - file: nooshin_bahador.md
   - caption: Data Portals
     chapters:
     - file: open-neuro.md
