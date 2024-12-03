@@ -1,5 +1,13 @@
 # Josh Neudorf
 
+## Project: Using Graph Neural Network Deep Learning to identify brain connectivity biomarkers for mild cognitive impairment and dementia in the aging population
+
+### Datasets
+ - Ontario Neurodegenerative Disease Research Initiative (ONDRI)
+   - Info and access links [here](https://braininstitute.ca/ONDRI)
+ - Alzheimer’s Disease Neuroimaging Initiative (ADNI)
+   - Info and access links [here](https://adni.loni.usc.edu/) 
+
 ## Background
 
 Josh Neudorf completed his B.Sc., Master’s, and PhD degrees under the supervision of Ron Borowsky at the University of Saskatchewan, studying cognitive and computational neuroscience. His Master’s thesis focused on the brain networks supporting language and semantic memory, while his PhD thesis focused on computational network neuroscience questions about how structural connectivity (measured with diffusion MRI) constrains and supports functional connectivity (measured with functional MRI), using graph theory, complexity, and deep learning methods in healthy young adults and patients with epilepsy. Josh held a NSERC Postdoctoral Fellowship and now holds a Canadian Neuroanalytics Scholars Program Postdoctoral Fellowship in Randy McIntosh’s lab at the Institute for Neuroscience & Neurotechnology, Simon Fraser University, investigating the structural and functional connectivity changes in older age that help to preserve cognitive ability, the unique functional network effects of acute sleep restriction on older adults, and the brain connectivity biomarkers of Alzheimer’s Disease.
