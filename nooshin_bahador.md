@@ -9,7 +9,7 @@ You can find more of my work and projects on my [GitHub](https://github.com/nbah
 
 For more details on my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=8TGM83oAAAAJ&view_op=list_works).
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nooshin-b-30348950/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nooshin-bahador-30348950/).
 
 ---
 
